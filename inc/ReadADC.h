@@ -1,9 +1,9 @@
 /**
  * @file ReadADC.h
- * @author 260213 (you@domain.com)
+ * @author 302606 (you@domain.com)
  * @brief ADC function definition
  * @version 0.1
- * @date 2021-04-26
+ * @date 2021-08-01
  * 
  * @copyright Copyright (c) 2021
  * 
