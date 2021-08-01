@@ -29,3 +29,4 @@ makeindex refman.idx
 %LATEX_CMD% refman
 cd /D %Dir_Old%
 set Dir_Old=
+
