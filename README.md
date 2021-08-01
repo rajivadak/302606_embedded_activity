@@ -3,8 +3,6 @@
 --------------------------------------
 [![Cppcheck](https://github.com/rajivadak/302606_embedded_activity/actions/workflows/Codequality.yml/badge.svg)](https://github.com/rajivadak/302606_embedded_activity/actions/workflows/Codequality.yml)
 --------------------------------------------------------
-[![Compile-Linux](https://github.com/rajivadak/302606_embedded_activity/actions/workflows/Compile.yml/badge.svg)](https://github.com/rajivadak/302606_embedded_activity/actions/workflows/Compile.yml)
---------------------------------------------------------
 
 # Activity 1
 <img src="https://github.com/rajivadak/302606_embedded_activity/blob/main/simulation/1.png?raw=true" width="1000">
