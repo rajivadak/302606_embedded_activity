@@ -2,10 +2,10 @@
 #define __LEDSTAT_H_
 /**
  * @file blinky.h
- * @author 260213 ()
+ * @author 302606 ()
  * @brief Activity_1
  * @version 0.1
- * @date 2021-04-24
+ * @date 2021-08-01
  * 
  * @copyright Copyright (c) 2021
  * 
