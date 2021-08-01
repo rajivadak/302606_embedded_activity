@@ -1,4 +1,4 @@
-DOXY_FILE = Activity_1
+DOXY_FILE = Activity
 BUILD_FILE = html
 
 FixPath = $(subst /,\,$1)
