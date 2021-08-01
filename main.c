@@ -38,8 +38,7 @@ void peripheral_init(void)
 uint16_t temp;
 char temp_data;
 int main(void)
-{
-    /*uint16_t temp;*/
+{   /*uint16_t temp;*/
     // Initialize peripherals
     peripheral_init();
     
