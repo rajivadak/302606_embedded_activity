@@ -1,9 +1,9 @@
 /**
  * @file ReadADC.c
- * @author 260213 (devswarupmohanty@gmail.com)
+ * @author 302606 (rajivadak26@gmail.com)
  * @brief 
  * @version 0.1
- * @date 2021-04-26
+ * @date 2021-08-01
  * 
  * @copyright Copyright (c) 2021
  * 
