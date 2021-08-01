@@ -1,9 +1,9 @@
 /**
  * @file OutPWM.h
- * @author 260213 (you@domain.com)
+ * @author 302606 (you@domain.com)
  * @brief Display the output of the temperature sensor
  * @version 0.1
- * @date 2021-04-29
+ * @date 2021-08-01
  * 
  * @copyright Copyright (c) 2021
  * 
